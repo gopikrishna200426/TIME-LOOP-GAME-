@@ -19,21 +19,18 @@ A text-based interactive story game where you (the player) are trapped in a myst
 - **Processor:** Intel i3 or higher
 - **RAM:** 2 GB minimum
 
-- ⚡ Features
-Fully interactive text-based gameplay.
+⚡ Features
 
-Multiple story paths with unique interactions.
-
-Replayable with different choices.
-
+- Fully interactive text-based gameplay.
+- Multiple story paths with unique interactions.
+- Replayable with different choices.
 📌 Limitations
-Only text-based (no graphics/animations yet).
 
-Story repeats if a wrong choice is made.
+-Only text-based (no graphics/animations yet).
+-Story repeats if a wrong choice is made.
 
 🔮 Future Improvements
-Add creative animations.
 
-Introduce new chapters and storylines.
-
-Improve user interface for better engagement.
+-Add creative animations.
+-Introduce new chapters and storylines.
+-improve user interface for better engagement.
