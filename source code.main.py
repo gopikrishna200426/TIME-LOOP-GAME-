@@ -1,11 +1,3 @@
-import sys 
-import time 
- 
-a = 2 
-b = 0.2 
-c = 0.08 
- 
- 
 def intro(): 
     print() 
     print("(IT IS DARK)") 
