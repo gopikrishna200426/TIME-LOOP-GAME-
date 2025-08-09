@@ -18,16 +18,17 @@ A text-based interactive story game where you (the player) are trapped in a myst
 - **Python Version:** 3.6 or above
 - **Processor:** Intel i3 or higher
 - **RAM:** 2 GB minimum
-
 ⚡ Features
 
 - Fully interactive text-based gameplay.
 - Multiple story paths with unique interactions.
 - Replayable with different choices.
-- 
+  
 📌 Limitations
-Only text-based (no graphics/animations yet).
-Story repeats if a wrong choice is made.
+- Only text-based (no graphics/animations yet).
+- Story repeats if a wrong choice is made.
+
+
 
 🔮 Future Improvements
 
