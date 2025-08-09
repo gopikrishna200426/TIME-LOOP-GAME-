@@ -24,10 +24,10 @@ A text-based interactive story game where you (the player) are trapped in a myst
 - Fully interactive text-based gameplay.
 - Multiple story paths with unique interactions.
 - Replayable with different choices.
+- 
 📌 Limitations
-
--Only text-based (no graphics/animations yet).
--Story repeats if a wrong choice is made.
+Only text-based (no graphics/animations yet).
+Story repeats if a wrong choice is made.
 
 🔮 Future Improvements
 
