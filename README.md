@@ -31,7 +31,7 @@ A text-based interactive story game where you (the player) are trapped in a myst
 
 
 🔮 Future Improvements
-
 -Add creative animations.
--Introduce new chapters and storylines.
--improve user interface for better engagement.
+- Introduce new chapters and storylines.
+-improve user interface for better engagement..
+
