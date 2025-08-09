@@ -1,4 +1,4 @@
-# TIME-LOOP-GAME-
+
 # Time Loop Game ⏳
 
 A text-based interactive story game where you (the player) are trapped in a mysterious time loop and must make the right choices to escape.
